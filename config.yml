@@ -55,6 +55,6 @@ Delay: 5
 # AutoRestart is whether the server will restart after an update
 # AutoRestart-Delay is the delay in seconds before restarting
 # AutoRestart-Message is the message that will be broadcasted before restarting
-AutoRestart: false
-AutoRestart-Delay: 60
-AutoRestart-Message: '&cServer is restarting in 1 minute!'
+AutoRestart: true
+AutoRestart-Delay: 10
+AutoRestart-Message: '&cServer gaat herstarten in 10 seconden!'
